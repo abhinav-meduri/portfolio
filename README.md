@@ -45,6 +45,3 @@
     <a href="https://doi.org/10.47611/jsrhs.v12i3.5023">DOI</a>
   </li>
 </ul>
-
-### Projects
-- Project 1
