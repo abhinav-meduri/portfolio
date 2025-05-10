@@ -1,4 +1,4 @@
-# Abhinav Meduri
+# Student at Duke University
 ### Education
 CS & Statistics at Duke University
 ### Work Experience
