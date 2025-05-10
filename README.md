@@ -30,6 +30,11 @@
 - Software Engineer Intern, Systrends
 - Co-Founder, Pantry Patrol, 501(c)(3)
 
+### Research Experience
+- Research Intern, [Biological & Soft Materials Modeling Lab, Duke University](https://aryalab.pratt.duke.edu/)
+- Research Intern, [Bandodkar Research Group, NC State University](https://research.ece.ncsu.edu/bandodkargroup/)
+- Research Intern, [Gorman Research Group, NC State University](https://gormanlab.wordpress.ncsu.edu/)
+
 ### Publications
 <ul>
   <li>
