@@ -1,7 +1,11 @@
 # Student at Duke University
 ### Education
-CS & Statistics at Duke University
+B.Sc. in Computer Science and Statistics, Duke University
 ### Work Experience
+- Data Engineer Intern, Rhodes Information Initiative, Duke University
+- Software Engineer Intern, ecoLong
+- Software Engineer Intern, Systrends
+- Co-Founder, Pantry Patrol, 501(c)(3)
 ### Projects
 - Project 1
 - Project 2
