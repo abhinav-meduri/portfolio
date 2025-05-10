@@ -30,5 +30,19 @@
 - Software Engineer Intern, Systrends
 - Co-Founder, Pantry Patrol, 501(c)(3)
 
+### Publications
+<ul>
+  <li>
+    <strong> Abhinav Meduri, Arnav Meduri, Siddharth Maruvada, Alice S Ammerman, Gideon Adams, Kyle R Busse </strong>,
+    "A Descriptive Study of Food Waste-Related Practices and Policies Among Food Pantries in Central and Eastern North Carolina," <em>Journal of Hunger & Environmental Nutrition </em>, vol. 20, 2024.
+    <a href="https://doi.org/10.1080/19320248.2024.2334046">DOI</a>
+  </li>
+  <li>
+    <strong> Abhinav Meduri, Arnav Meduri </strong>,
+    "Computational Elucidation of Protein-Protein Interactions in the Minimal Proteome of JCVI-syn3A," <em> Journal of Student Research </em>, 2023.
+    <a href="https://doi.org/10.47611/jsrhs.v12i3.5023">DOI</a>
+  </li>
+</ul>
+
 ### Projects
 - Project 1
