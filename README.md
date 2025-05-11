@@ -52,19 +52,19 @@
 
 ### Technical Skills & Relevant Coursework
 
-<div style="display: flex; flex-wrap: wrap; gap: 24px; margin-bottom: 8px; align-items: flex-start;">
+<div style="display: flex; flex-wrap: wrap; gap: 0px; margin-bottom: 16px; align-items: flex-start;">
 
   <div style="flex: 1; min-width: 250px;">
-    <h4 style="margin: 0 0 6px 0;">Technical Skills</h4>
-    <ul style="margin: 0; padding-left: 20px; line-height: 1.4;">
+    <h4 style="margin: 0 0 4px 0;">Technical Skills</h4>
+    <ul style="margin: 0; padding-left: 20px; line-height: 1.3;">
       <li>Languages: Java, C++, MIPS Assembly, Python, R</li>
       <li>Tools: Git, PyTorch, TensorFlow, AutoCAD</li>
     </ul>
   </div>
 
   <div style="flex: 1; min-width: 250px;">
-    <h4 style="margin: 0 0 6px 0;">Relevant Coursework</h4>
-    <ul style="margin: 0; padding-left: 20px; line-height: 1.4;">
+    <h4 style="margin: 8px 0 4px 0;">Relevant Coursework</h4>
+    <ul style="margin: 0; padding-left: 20px; line-height: 1.3;">
       <li>Computer Architecture</li>
       <li>Data Structures & Algorithms</li>
       <li>Linear Algebra</li>
