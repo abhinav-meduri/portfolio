@@ -49,3 +49,9 @@
     <a href="https://doi.org/10.47611/jsrhs.v12i3.5023">DOI</a>
   </li>
 </ul>
+
+<a href="mailto:abhinav.meduri@duke.edu">
+  <button style="padding:6px 12px; font-size:14px; border:none; border-radius:4px; background-color:#003366; color:white; cursor:pointer;">
+    Contact Me
+  </button>
+</a>
