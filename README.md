@@ -34,11 +34,6 @@
 - Research Intern, [Bandodkar Research Group, NC State University](https://research.ece.ncsu.edu/bandodkargroup/) *(June 2022 – May 2024)*
 - Research Intern, [Gorman Research Group, NC State University](https://gormanlab.wordpress.ncsu.edu/) *(June 2022)*
 
-### Projects
-- Pantry Patrol, 501(c)(3)
-- Perovskite Solar Cells (NCSSM Research in Chemistry Program)
-- Bioinformatics Project (Self-Directed)
-  
 ### Publications
 <ul>
   <li>
