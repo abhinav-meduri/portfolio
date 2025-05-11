@@ -25,9 +25,9 @@
 </table>
 
 ### Work Experience
-- Data Engineer Intern, Rhodes Information Initiative, Duke University <img src="https://user-images.githubusercontent.com/43549914/73490467-9c906000-437a-11ea-9452-76ea8f8a1ceb.png" width="20" style="vertical-align:middle; margin-right:6px;"/>
+- Research Intern, Rhodes Information Initiative, Duke University <img src="https://user-images.githubusercontent.com/43549914/73490467-9c906000-437a-11ea-9452-76ea8f8a1ceb.png" width="20" style="vertical-align:middle; margin-right:6px;"/>
 - Software Engineer Intern, ecoLong <img src="https://climatebaseuserstorage.s3-us-west-1.amazonaws.com/photos/acab7636-8deb-4213-8e83-32697362e7dd-ecolog_fullcolor_logo.webp" width="20" style="vertical-align:middle; margin-right:6px;"/>
-- Software Engineer Intern, Systrends <img src="https://static.wixstatic.com/media/f8cc0a_c3f66cd220ca44279b50775eb0c92ffe~mv2.png" width="20" style="position:relative; top:20px; margin-left:6px;"/>
+- Software Engineer Intern, Systrends <img src="https://static.wixstatic.com/media/f8cc0a_c3f66cd220ca44279b50775eb0c92ffe~mv2.png" width="20" style="position:relative; top:10px; margin-left:6px;"/>
 
 ### Research Experience
 - Research Intern, [Arya Research Group, Duke University](https://aryalab.pratt.duke.edu/) *(Expected Fall 2025)*
