@@ -52,19 +52,19 @@
 
 ### Technical Skills & Relevant Coursework
 
-<div style="display: flex; flex-wrap: wrap; gap: 40px;">
+<div style="display: flex; flex-wrap: wrap; gap: 40px; margin-bottom: 16px;">
 
   <div style="flex: 1; min-width: 250px;">
     <h4>Technical Skills</h4>
-    <ul>
-      <li><strong>Languages:</strong> Java, C++, MIPS Assembly, Python, R</li>
-      <li><strong>Tools:</strong> Git, PyTorch, TensorFlow, AutoCAD</li>
+    <ul style="margin: 0; padding-left: 20px;">
+      <li>Languages: Java, C++, MIPS Assembly, Python, R</li>
+      <li>Tools: Git, PyTorch, TensorFlow, AutoCAD</li>
     </ul>
   </div>
 
   <div style="flex: 1; min-width: 250px;">
     <h4>Relevant Coursework</h4>
-    <ul>
+    <ul style="margin: 0; padding-left: 20px;">
       <li>Computer Architecture</li>
       <li>Data Structures & Algorithms</li>
       <li>Linear Algebra</li>
@@ -74,14 +74,16 @@
 
 </div>
 
-<a href="mailto:abhinav.meduri@duke.edu">
-  <button style="padding:6px 12px; font-size:14px; border:none; border-radius:4px; background-color:#003366; color:white; cursor:pointer; margin-right:8px;">
-    Contact Me
-  </button>
-</a>
+<div style="display: flex; gap: 8px;">
+  <a href="mailto:abhinav.meduri@duke.edu">
+    <button style="padding:6px 12px; font-size:14px; border:none; border-radius:4px; background-color:#003366; color:white; cursor:pointer;">
+      Contact Me
+    </button>
+  </a>
 
-<a href="https://www.linkedin.com/in/abhinav-meduri/" target="_blank">
-  <button style="padding:6px 12px; font-size:14px; border:none; border-radius:4px; background-color:#0A66C2; color:white; cursor:pointer;">
-    LinkedIn
-  </button>
-</a>
+  <a href="https://www.linkedin.com/in/abhinav-meduri/" target="_blank">
+    <button style="padding:6px 12px; font-size:14px; border:none; border-radius:4px; background-color:#003366; color:white; cursor:pointer;">
+      LinkedIn
+    </button>
+  </a>
+</div>
