@@ -1,4 +1,3 @@
-# Student at Duke University
 <p align="center">
   <img src="assets/1746260880470.jpeg" alt="Profile picture" width="120" style="border-radius: 50%; margin-bottom: 10px;">
 </p>
