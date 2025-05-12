@@ -78,7 +78,8 @@
 
 <div style="display: flex; gap: 8px;">
   <a href="mailto:abhinav.meduri@duke.edu">
-    <button style="padding:6px 12px; font-size:14px; border:none; border-radius:4px; background-color:#003366; color:white; cursor:pointer;">
+    <button style="display: flex; align-items: center; gap: 8px; padding: 6px 12px; font-size: 14px; border: none; border-radius: 4px; background-color: #003366; color: white; cursor: pointer;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="16" height="16" style="filter: invert(1);">
       Contact Me
     </button>
   </a>
