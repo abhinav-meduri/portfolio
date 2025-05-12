@@ -1,7 +1,20 @@
 # Student at Duke University
-<p align="center">
-  <img src="assets/1746260880470.jpeg" alt="Profile picture" width="120" style="border-radius: 50%; margin-bottom: 10px;">
-</p>
+<h1 style="margin-bottom: 8px;">Abhinav Meduri</h1>
+<p style="margin-top: 0; font-size: 1.1em;"><strong>Student at Duke University</strong></p>
+
+<img src="assets/1746260880470.jpeg" alt="Abhinav Meduri" width="120" style="border-radius: 50%; margin: 12px 0;">
+
+<div style="margin-top: 12px;">
+  <a href="https://github.com/abhinav-meduri/portfolio/archive/refs/heads/main.zip">
+    <button style="margin-right: 6px;">Download ZIP File</button>
+  </a>
+  <a href="https://github.com/abhinav-meduri/portfolio/archive/refs/heads/main.tar.gz">
+    <button style="margin-right: 6px;">Download TAR Ball</button>
+  </a>
+  <a href="https://github.com/abhinav-meduri/portfolio">
+    <button>View On GitHub</button>
+  </a>
+</div>
 
 ### Education
 
