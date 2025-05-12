@@ -2,7 +2,7 @@
   <img src="assets/1746260880470.jpeg" alt="Profile picture" width="120" style="border-radius: 50%; margin-bottom: 10px;">
 </p>
 
-About Me: Hi! I'm a student at Duke University majoring in Computer Science and Statistics, broadly interested in ML, grid modernization, and cybersecurity.
+**About Me:** Hi! I'm a student at Duke University majoring in Computer Science and Statistics, broadly interested in ML, grid modernization, and cybersecurity.
 
 ### Education
 
