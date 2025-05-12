@@ -2,6 +2,8 @@
   <img src="assets/1746260880470.jpeg" alt="Profile picture" width="120" style="border-radius: 50%; margin-bottom: 10px;">
 </p>
 
+Hi! I'm a student at Duke University majoring in Computer Science and Statistics, broadly interested in ML, energy markets, and cybersecurity.
+
 ### Education
 
 <table>
@@ -74,6 +76,10 @@
     </td>
   </tr>
 </table>
+
+### Awards
+- 4th Place Grand Award: Regeneron International Science and Engineering Fair
+- North Carolina International Science Challenge Winner
 
 <div style="display: flex; gap: 8px;">
   <a href="mailto:abhinav.meduri@duke.edu">
