@@ -83,10 +83,9 @@
     </button>
   </a>
 
-  <a href="https://www.linkedin.com/in/abhinav-meduri/" target="_blank">
-    <button style="padding:6px 12px; font-size:14px; border:none; border-radius:4px; background-color:#003366; color:white; cursor:pointer;">
-      LinkedIn
-    </button>
-  </a>
-</div>
-
+<a href="https://www.linkedin.com/in/abhinav-meduri/" target="_blank">
+  <button style="display: flex; align-items: center; gap: 8px; padding: 6px 12px; font-size: 14px; border: none; border-radius: 4px; background-color: #003366; color: white; cursor: pointer;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="16" height="16" style="background: white; border-radius: 2px;">
+    LinkedIn
+  </button>
+</a>
